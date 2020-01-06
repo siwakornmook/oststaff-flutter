@@ -1,0 +1,177 @@
+{
+  "authen": {
+    "title": "ยินดีต้อนรับ",
+    "email":"อีเมล์",
+    "password":"รหัสผ่าน",
+    "forgot":"ลืมรหัสผ่าน",
+    "login":"เข้าสู่ระบบ",
+    "incorrect": "ชื่อผู้ใช้ หรือ พาสเวิร์ด ผิดพลาด",
+    "tryAgain": "กรุณาลองอีกครั้ง",
+    "ok": "ตกลง",
+    "emailEmpty": "กรุณากรอกอีเมล์",
+    "passwordEmpty": "กรุณากรอกพาสเวิร์ด",
+    "valid": "อีเมล์ไม่ถูกต้อง"
+  },
+  "attachment": {
+    "title": "ไฟล์แนบ",
+    "subtitle": "รูปภาพแนบ",
+    "addPicture":"เพิ่มไฟล์",
+    "default": "รูปภาพ",
+    "picture":"รูปที่",
+    "delete":"ลบ",
+    "addOther":"เพิ่มรูปภาพ",
+    "other": "อื่นๆ",
+    "addPictures": "เพิ่มรูป",
+    "takePicture": "ถ่ายภาพ",
+    "gallery": "คลังภาพ",
+    "cancel": "ยกเลิก"
+  },
+  "create": {
+    "title": "สร้างรายการ",
+    "editTitle": "แก้ไขรายการ",
+    "titleField": "หัวข้อ",
+    "allDay":"ทั้งวัน",
+    "HalfDay": "ครึ่งวัน",
+    "morning":"(เช้า)",
+    "afternoon":"(เย็น)",
+    "descriptionField":"รายละเอียด",
+    "typeField": "ประเภท",
+    "approveField": "ผู้อนุมัติ",
+    "attachmentField": "ไฟล์แนบ",
+    "create": "สร้าง",
+    "edit": "แก้ไข",
+    "titleError": "กรุณากรอกหัวข้อ",
+    "descriptionError": "กรุณากรอกรายละเอียด",
+    "success": "เสร็จสิ้น",
+    "networkFail": "เน็ตเวิร์คขัดข้อง",
+    "typeFail": "ไม่พบประเภทการลา"
+  },
+  "advance": {
+    "title": "ตั้งค่าขั้นสูง",
+    "allDay":"ทั้งวัน",
+    "start": "เริ่ม",
+    "end":"สิ้นสุด"
+  },
+  "editAttachment": {
+    "title": "แก้ไขไฟล์แนบ",
+    "subtitle": "รูปภาพแนบ",
+    "addPicture":"เพิ่มไฟล์",
+    "default": "รูปภาพ",
+    "picture":"รูปที่",
+    "delete":"ลบ",
+    "addOther":"เพิ่มรูปภาพ",
+    "other": "อื่นๆ",
+    "addPictures": "เพิ่มรูป",
+    "takePicture": "ถ่ายภาพ",
+    "gallery": "คลังภาพ",
+    "cancel": "ยกเลิก"
+  },
+  "profile": {
+    "title": "โปรไฟล์",
+    "firstName":"ชื่อ",
+    "lastName":"นามสกุล",
+    "email":"อีเมล์",
+    "gender":"เพศ",
+    "language":"ภาษา"
+
+  },
+  "timeSheet": {
+    "title": "ตารางเวลางาน",
+    "dateStart":"วันที่เริ่มต้น",
+    "dateEnd":"วันที่สิ้นสุด",
+    "detail": "รายละเอียด",
+    "message": "ข้อความหมายเหตุ",
+    "confirm": "ยืนยัน",
+    "cancel": "ยกเลิก"
+  },
+  "dashboard": {
+    "title": "วันนี้",
+    "in": "เข้า :",
+    "out": "ออก :",
+    "late": "สาย",
+    "scanTime" : "เวลาเข้างาน",
+    "more": "เพิ่มเติม",
+    "notFound": "ไม่พบข้อมูล"
+  },
+  "language": {
+    "name": {
+      "en": "อังกฤษ",
+      "th": "ไทย"
+    }
+
+  },
+  "event": {
+    "title": "รายการ",
+    "typeField": "ประเภท",
+    "approveField": "ผู้อนุมัติ",
+    "attachmentField": "ไฟล์แนบ",
+    "statusField": "สถานะ",
+    "waitApproveField": "รออนุมัติ",
+    "approvedField": "อนุมัติ",
+    "rejectField": "ปฏิเสธ",
+    "voidField": "ยกเลิก",
+    "edit": "แก้ไข",
+    "confirm": "ยืนยัน",
+    "cancel": "ยกเลิก"
+  },
+  "gender": {
+    "title": "เพศ"
+  },
+  "history": {
+    "title": "ประวัติ",
+    "dateStart": "วันที่เริ่มต้น",
+    "dateEnd": "วันที่สิ้นสุด",
+    "status": "สถานะ :",
+    "networkFail": "เน็ตเวิร์คขัดข้อง"
+  },
+  "language": {
+    "title": "รายการภาษา"
+  },
+  "leaveReport": {
+    "title": "รายการภาษา"
+  },
+  "leaveReport": {
+    "title": "รายงาน",
+    "typeofLeave": "ประเภทการลา",
+    "summary": "วันลาสะสม",
+    "amount": "จำนวนวันลา",
+    "remain" : "จำนวนวันที่ลา / คงเหลือ",
+    "networkFail": "เน็ตเวิร์คขัดข้อง"
+  },
+  "leaveType": {
+    "title": "ประเภทการลา",
+    "done": "เสร็จสิ้น"
+  },
+  "notification": {
+    "title": "แจ้งเตือน",
+    "notFound": "ไม่พบข้อมูลการแจ้งเตือน",
+    "request": "คำขอ",
+    "earlier": "คำขอก่อนหน้านี้",
+    "approve": "อนุมัติ",
+    "reject": "ปฏิเสธ",
+    "confirm": "ยืนยัน",
+    "cancel": "ยกเลิก"
+  },
+  "type": {
+    "title": "ประเภทของปฏิทิน",
+    "work": "วันทำงาน",
+    "leave": "วันลา",
+    "holiday": "วันหยุดนักขัตฤกษ์",
+    "done": "เสร็จสิ้น"
+  },
+  "viewAttach": {
+    "title": "ดูไฟล์แนบ"
+  },
+  "calendar": {
+    "title": "ปฏิทิน",
+    "tooltip": "ประเภทของปฏิทิน"
+  },
+  "drawer": {
+    "timestamp": "ลงเวลาปฏิบัติงาน",
+    "calendar": "ปฏิทิน",
+    "timeSheets": "ตารางเวลางาน",
+    "notification": "แจ้งเตือน",
+    "leaveReport": "รายงาน",
+    "logout": "ออกจากระบบ"
+  }
+}

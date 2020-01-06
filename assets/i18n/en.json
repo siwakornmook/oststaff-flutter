@@ -1,0 +1,177 @@
+{
+  "authen": {
+    "title": "Welcome",
+    "email":"E-mail",
+    "password":"Password",
+    "forgot":"Forgot password ?",
+    "login":"Login",
+    "incorrect": "Username or Password is incorrect.",
+    "tryAgain": "Please Try Again.",
+    "ok": "Okay",
+    "emailEmpty": "The Email is Empty",
+    "passwordEmpty": "The Password is Empty",
+    "valid": "Please enter a valid email"
+
+  },
+  "attachment": {
+    "title": "Attachment",
+    "subtitle": "Attachment Photo",
+    "addPicture":"Click to add a picture",
+    "default": "of the default",
+    "picture":"Picture",
+    "delete":"Delete",
+    "addOther":"Click to add other",
+    "other": "picture",
+    "addPictures": "Add Photo",
+    "takePicture": "Take Photo",
+    "gallery": "Choose Form Gallery",
+    "cancel": "Cancel"
+  },
+  "create": {
+    "title": "Create Event",
+    "editTitle": "Edit Event",
+    "titleField": "Title",
+    "allDay":"All Day",
+    "HalfDay": "Half Day",
+    "morning":"(Morning)",
+    "afternoon":"(Afternoon)",
+    "descriptionField":"Description",
+    "typeField": "Type",
+    "approveField": "Approve",
+    "attachmentField": "Attachment",
+    "create": "Create",
+    "edit": "Edit",
+    "titleError": "The Title is Empty",
+    "descriptionError": "The Description is Empty",
+    "success": "Successful",
+    "networkFail": "Network Failure",
+    "typeFail": "Not found of type."
+  },
+  "advance": {
+    "title": "Setting Advance",
+    "allDay":"All Day",
+    "start": "Start",
+    "end":"End"
+  },
+  "editAttachment": {
+    "title": "Edit Attachment",
+    "subtitle": "Attachment Photo",
+    "addPicture":"Click to add a picture",
+    "default": "of the default",
+    "picture":"Picture",
+    "delete":"Delete",
+    "addOther":"Click to add other",
+    "other": "picture",
+    "addPictures": "Add Photo",
+    "takePicture": "Take Photo",
+    "gallery": "Choose Form Gallery",
+    "cancel": "Cancel"
+  },
+  "profile": {
+    "title": "Profile",
+    "firstName":"First name",
+    "lastName":"Surname",
+    "email":"E-mail",
+    "gender":"Gender",
+    "language":"Language"
+
+  },
+  "timeSheet": {
+    "title": "Time sheet",
+    "dateStart":"Date Start",
+    "dateEnd":"Date End",
+    "detail": "Detail",
+    "message": "Message",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "dashboard": {
+    "title": "Today",
+    "in": "In :",
+    "out": "Out :",
+    "late": "Late",
+    "scanTime" : "Scan Times",
+    "more": "More",
+    "notFound": "Not Found Data"
+
+  },
+  "language": {
+    "name": {
+      "en": "อังกฤษ",
+      "th": "ไทย"
+    }
+
+
+  },
+  "event": {
+    "title": "Event",
+    "typeField": "Type",
+    "approveField": "Approve",
+    "attachmentField": "Attachment",
+    "statusField": "Status",
+    "waitApproveField": "Wait for Approve",
+    "approvedField": "Approve",
+    "rejectField": "Reject",
+    "voidField": "Void",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "gender": {
+    "title": "Gender"
+  },
+  "history": {
+    "title": "History",
+    "dateStart": "Date start",
+    "dateEnd": "Date End",
+    "status": "Status :",
+    "networkFail": "Network Failure"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "leaveReport": {
+    "title": "Leave Report",
+    "typeofLeave": "Type of Leave",
+    "summary": "Summary",
+    "amount": "Amount",
+    "remain" : "Amount/Remain",
+    "networkFail": "Network Failure"
+  },
+  "leaveType": {
+    "title": "Leave Type",
+    "done": "Done"
+  },
+  "notification": {
+    "title": "Notification",
+    "notFound": "Not found Notification",
+    "request": "Request",
+    "earlier": "Earlier",
+    "approve": "Approve",
+    "reject": "Reject",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  },
+  "type": {
+    "title": "Type of calendar",
+    "work": "Work",
+    "leave": "Leave",
+    "holiday": "Holiday",
+    "done": "Done"
+  },
+  "viewAttach": {
+    "title": "View Attachments"
+  },
+  "calendar": {
+    "title": "Calendar",
+    "tooltip": "Type of calendar"
+  },
+  "drawer": {
+    "timestamp": "Time Stamp",
+    "calendar": "Calendar",
+    "timeSheets": "Time sheet",
+    "notification": "Notification",
+    "leaveReport": "Leave Report",
+    "logout": "Log out"
+  }
+}
